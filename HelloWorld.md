@@ -5,4 +5,4 @@ date: "11/04/2020"
 output: html_document
 ---
 
-## THis is a markdown file
+## This is a markdown file
